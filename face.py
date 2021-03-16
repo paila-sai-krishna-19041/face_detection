@@ -5,7 +5,8 @@ Created on Sat Mar 13 18:08:02 2021
 
 @author: saikrishnapaila
 """
-
+#-->> for me opencv is not working in visual studio so, try to use in Spyder
+#-->> command for installing opencv in your device is 'pip install opencv-python'
 import cv2
 
 #loaded with pre-trained data on face frontals from opencv
